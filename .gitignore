@@ -1,0 +1,27 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Unity
+UnityClient/Library/
+UnityClient/Temp/
+UnityClient/Logs/
+UnityClient/Obj/
+UnityClient/UserSettings/
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# Visual Studio / VS Code
+.vscode/
+.vs/
+
+# OS files
+.DS_Store
+Thumbs.db

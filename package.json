@@ -1,0 +1,19 @@
+{
+  "name": "server-unity-communication",
+  "version": "1.0.0",
+  "description": "Node.js server for Unity communication",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  },
+  "dependencies": {
+    "ws": "^8.19.0"
+  }
+}
