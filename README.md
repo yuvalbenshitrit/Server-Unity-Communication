@@ -11,7 +11,7 @@ This project demonstrates a simple communication between a Node.js server and a 
 
 ## Project Structure
 
-HOME-ASSIGNMENT/
+SERVER-UNITY-COMMUNICATION\
 ├─ src/
 │  ├─ protocol.js
 │  └─ server.js
